@@ -1,0 +1,12 @@
+create_group:
+  - find: //div[text()='基础标签']/../..//div[text()='更多标签']
+    action: find_and_click
+  - find: //label[text()='群组名称']/..//input
+    action: send
+    content: '$new_group_name'
+  - find: 城市分类
+    action: dropdown_select
+    select: ["一线","新一线"]
+  - find: //span[text()='保存']
+    action: find_and_click
+

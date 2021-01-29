@@ -1,0 +1,11 @@
+test_select_lable:
+  test_data:
+    -
+      - 城市分类
+      -
+        - 一线
+        - 新一线
+    - ["性别", ["男"]]
+  test_ids:
+    - test1
+    - test2

@@ -1,0 +1,5 @@
+[32mINFO    [0m root:conftest.py:7 
+Starting test case...
+[32mINFO    [0m root:base.py:60 期望标签:('一线', '新一线')
+[32mINFO    [0m root:base.py:62 选择标签:一线
+[32mINFO    [0m root:base.py:62 选择标签:新一线

@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element <span>...</span> is not clickable at point (243, 574). Other element would receive the click: <li data-v-5418a736=\"\" class=\"el-select-dropdown__item\">...</li>\n  (Session info: chrome=88.0.4324.104)",
+      "children" : [ {
+        "name" : "test_distribute_execute",
+        "uid" : "2180395d8bf5d209",
+        "parentUid" : "bf839c6b19f77bd857a2421956134055",
+        "status" : "broken",
+        "time" : {
+          "start" : 1611899822852,
+          "stop" : 1611899829771,
+          "duration" : 6919
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bf839c6b19f77bd857a2421956134055"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

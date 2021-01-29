@@ -1,0 +1,2 @@
+[32mINFO    [0m root:conftest.py:9 
+End test case

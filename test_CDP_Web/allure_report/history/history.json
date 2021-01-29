@@ -1,0 +1,137 @@
+{
+  "f67c99790390d07f5efe9af0cf075458" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "73de5b0f921163cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611899814350,
+        "stop" : 1611899822326,
+        "duration" : 7976
+      }
+    } ]
+  },
+  "817e0bf1306c9132cb12011cd2ac039f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2180395d8bf5d209",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element <span>...</span> is not clickable at point (243, 574). Other element would receive the click: <li data-v-5418a736=\"\" class=\"el-select-dropdown__item\">...</li>\n  (Session info: chrome=88.0.4324.104)",
+      "time" : {
+        "start" : 1611899822852,
+        "stop" : 1611899829771,
+        "duration" : 6919
+      }
+    } ]
+  },
+  "17ac487da817df0f5e2659cd26acfefa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4fe59344ea26f062",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611899758504,
+        "stop" : 1611899813415,
+        "duration" : 54911
+      }
+    } ]
+  },
+  "10462d554f34f852d9c305c775ba517d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1a3f48b5a8b46ec4",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1611899830765,
+        "stop" : 1611899830765,
+        "duration" : 0
+      }
+    } ]
+  },
+  "4adcf07d0e0123e2887eefaff148e03a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "753b7907cb31de4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611899698630,
+        "stop" : 1611899704256,
+        "duration" : 5626
+      }
+    } ]
+  },
+  "ce447516e624c45d9175febc46323357" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "41245f4279e29a24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611899731811,
+        "stop" : 1611899758092,
+        "duration" : 26281
+      }
+    } ]
+  },
+  "d7cfc198acf0caff94f1a59aaeac9148" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5d20fdee54a079fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611899704747,
+        "stop" : 1611899731363,
+        "duration" : 26616
+      }
+    } ]
+  }
+}

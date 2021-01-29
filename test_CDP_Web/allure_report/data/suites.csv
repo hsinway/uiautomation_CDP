@@ -1,0 +1,26 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jan 29 13:56:54 CST 2021","Fri Jan 29 13:57:02 CST 2021","7976","test_case","test_customer_group","TestCustomerGroup","","","test_distribute_config","
+        验证分发配置
+        :return:
+        "
+"skipped","Fri Jan 29 13:57:10 CST 2021","Fri Jan 29 13:57:10 CST 2021","0","test_case","test_customer_group","TestCustomerGroup","","","test_group_creation_new",""
+"passed","Fri Jan 29 13:55:31 CST 2021","Fri Jan 29 13:55:58 CST 2021","26281","test_case","test_customer_group","TestCustomerGroup","","","test_customer_calculation","
+        验证计算客户数功能
+        :return:
+        "
+"passed","Fri Jan 29 13:55:04 CST 2021","Fri Jan 29 13:55:31 CST 2021","26616","test_case","test_customer_group","TestCustomerGroup","","","test_select_lable[test2]","
+        验证标签的选择
+        :return:
+        "
+"broken","Fri Jan 29 13:57:02 CST 2021","Fri Jan 29 13:57:09 CST 2021","6919","test_case","test_customer_group","TestCustomerGroup","","","test_distribute_execute","
+        验证分发执行
+        :return:
+        "
+"passed","Fri Jan 29 13:54:58 CST 2021","Fri Jan 29 13:55:04 CST 2021","5626","test_case","test_customer_group","TestCustomerGroup","","","test_select_lable[test1]","
+        验证标签的选择
+        :return:
+        "
+"passed","Fri Jan 29 13:55:58 CST 2021","Fri Jan 29 13:56:53 CST 2021","54911","test_case","test_customer_group","TestCustomerGroup","","","test_group_creation","
+        验证新建群组
+        :return:
+        "

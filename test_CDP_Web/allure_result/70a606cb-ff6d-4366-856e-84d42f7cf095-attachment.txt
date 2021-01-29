@@ -1,0 +1,2 @@
+[32mINFO    [0m root:base.py:60 期望标签:('男',)
+[32mINFO    [0m root:base.py:62 选择标签:男

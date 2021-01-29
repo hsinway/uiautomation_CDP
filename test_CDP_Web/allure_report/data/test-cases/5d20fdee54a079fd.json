@@ -1,0 +1,147 @@
+{
+  "uid" : "5d20fdee54a079fd",
+  "name" : "test_select_lable[test2]",
+  "fullName" : "test_case.test_customer_group.TestCustomerGroup#test_select_lable",
+  "historyId" : "d7cfc198acf0caff94f1a59aaeac9148",
+  "time" : {
+    "start" : 1611899704747,
+    "stop" : 1611899731363,
+    "duration" : 26616
+  },
+  "description" : "\n        验证标签的选择\n        :return:\n        ",
+  "descriptionHtml" : "<pre><code>    验证标签的选择\n    :return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "fixture_demo",
+    "time" : {
+      "start" : 1611899696839,
+      "stop" : 1611899696840,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "xunit_setup_class_fixture_TestCustomerGroup",
+    "time" : {
+      "start" : 1611899696840,
+      "stop" : 1611899698630,
+      "duration" : 1790
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "\n        验证标签的选择\n        :return:\n        ",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4012adc928b0118c",
+      "name" : "attach_pic",
+      "source" : "4012adc928b0118c.png",
+      "type" : "image/png",
+      "size" : 120565
+    }, {
+      "uid" : "663f535d49cdc7d9",
+      "name" : "log",
+      "source" : "663f535d49cdc7d9.txt",
+      "type" : "text/plain",
+      "size" : 106
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "fixture_demo::0",
+    "time" : {
+      "start" : 1611899830789,
+      "stop" : 1611899830792,
+      "duration" : 3
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "xunit_setup_class_fixture_TestCustomerGroup::0",
+    "time" : {
+      "start" : 1611899830778,
+      "stop" : 1611899830778,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_customer_group"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCustomerGroup"
+  }, {
+    "name" : "host",
+    "value" : "wwxin1"
+  }, {
+    "name" : "thread",
+    "value" : "18196-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_customer_group"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "lable",
+    "value" : "'性别'"
+  }, {
+    "name" : "selections",
+    "value" : "['男']"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5d20fdee54a079fd.json",
+  "parameterValues" : [ "'性别'", "['男']" ]
+}
